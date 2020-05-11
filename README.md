@@ -1,0 +1,3 @@
+#LINE_SurveyApp
+
+kintoneを使ったLINEアンケートアプリのjsファイルとcssファイルです。
