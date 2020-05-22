@@ -1,7 +1,7 @@
 # LINE_SurveyApp
 
 LINEアンケートアプリの、カスタマイズ用JSファイルとCSSファイルです。
-LINE botはアカウント認証の申請をしていないので検索かけても出てきません。
+LINE botのアカウント認証申請はしておりません。
 アンケートアプリは以下のURLから入ることができます。
 
 https://ldc-20200511-kazuki-naruse.herokuapp.com/
