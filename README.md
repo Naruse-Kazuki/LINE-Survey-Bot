@@ -7,7 +7,7 @@ LINE botのアカウント認証申請はしておりません。
 https://ldc-20200511-kazuki-naruse.herokuapp.com/
 
 
-#technology selection
+# technology selection
 
 - Messaging API
 
