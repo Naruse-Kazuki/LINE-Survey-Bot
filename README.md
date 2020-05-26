@@ -7,11 +7,13 @@ LINE botのアカウント認証申請はしておりません。
 https://ldc-20200511-kazuki-naruse.herokuapp.com/
 
 
-[使用技術]
+#technology selection
 
-フロントエンド： Messaging API / LINE Front-end Framework
+- Messaging API
 
-バックエンド： kintone
+- LINE Front-end Framework
+
+- kintone
 
 ---
 
