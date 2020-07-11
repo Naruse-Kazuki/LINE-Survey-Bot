@@ -1,8 +1,6 @@
 # LINE-Survey-Bot
 
-LINEアンケートアプリの、カスタマイズ用JSファイルとCSSファイルです。
-LINE botのアカウント認証申請はしておりません。
-アンケートアプリは以下のURLから入ることができます。
+This is a customizable JS and CSS file for the LINE survey application. We don't apply for account authentication for the LINE bot. You can enter the survey application from the following URL.
 
 https://ldc-20200511-kazuki-naruse.herokuapp.com/
 
