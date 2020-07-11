@@ -1,4 +1,4 @@
-# LINE_SurveyApp
+# LINE-Survey-Bot
 
 LINEアンケートアプリの、カスタマイズ用JSファイルとCSSファイルです。
 LINE botのアカウント認証申請はしておりません。
